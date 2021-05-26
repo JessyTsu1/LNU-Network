@@ -4,8 +4,9 @@
 
 <h1 align="center"><a href="https://github.com/JessyTsu1/LNU-Network" target="_blank">辽宁大学网络编程小demo</a></h1>
 <p align="center">
-<a href="https://github.com/JessyTsu1/LNU-Network/issues"><img alt="license" src="https://github.com/JessyTsu1/LNU-Network/license-Apache--2.0-blue"/></a>
-<a href="https://github.com/JessyTsu1/LNU-Network/issues"><img alt="stars" src="https://github.com/JessyTsu1/LNU-Network"></a>
+    
+<a href="https://github.com/JessyTsu1/LNU-Al-Exp/issues"><img alt="license" src="https://img.shields.io/badge/license-Apache--2.0-blue"/></a>
+<a href="https://github.com/JessyTsu1/LNU-Network/issues"><img alt="stars" src="https://img.shields.io/github/stars/JessyTsu1/LNU-Network"></a>
 <a href="https://github.com/JessyTsu1/LNU-Network/issues"><img alt="PR" src="https://img.shields.io/badge/PRs-welcome-green"></a>
 <a href="https://github.com/JessyTsu1/LNU-Network/issues"><img alt="Travis CI" src="https://img.shields.io/badge/build-done-blue"/></a>
 </p>
